@@ -2,7 +2,7 @@
     "name": "gatsby-starter-blog",
     "private": true,
     "description": "A starter for a blog powered by Gatsby, TypeScript, ESLint and Markdown",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "Bader Nasser <badersur@gmail.com>",
     "scripts": {
         "type-check": "tsc --noEmit",
